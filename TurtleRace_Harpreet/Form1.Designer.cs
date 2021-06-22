@@ -216,7 +216,7 @@
             this.lblKayakerNumber.Name = "lblKayakerNumber";
             this.lblKayakerNumber.Size = new System.Drawing.Size(70, 27);
             this.lblKayakerNumber.TabIndex = 6;
-            this.lblKayakerNumber.Text = "Kayaker:";
+            this.lblKayakerNumber.Text = "Turtle:";
             // 
             // lblBetAmount
             // 
