@@ -90,7 +90,7 @@ namespace TurtleRace_Harpreet
             for (int i = 0; i < currentPunter.Length; i++)
             {
                 if (currentPunter[i].Cash == 0) continue;
-                currentPunter[i].MyLabel.Text = currentPunter[i].PlayerName + " Bet $" + currentPunter[i].MyBet.Amount + " On Kayaker " + currentPunter[i].MyBet.turtle;
+                currentPunter[i].MyLabel.Text = currentPunter[i].PlayerName + " Bet $" + currentPunter[i].MyBet.Amount + " On Turtle " + currentPunter[i].MyBet.turtle;
             }
 
             btnRace.Enabled = true;
